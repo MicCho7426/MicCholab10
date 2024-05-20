@@ -5,7 +5,7 @@ import java.util.List;
 public class Movie {
     private String title;
     private String directorName;
-    private int duration; // in minutes
+    private int duration;
     private List<CastMember> cast;
 
     public Movie(String title, String directorName, int duration, List<CastMember> cast) {
@@ -15,7 +15,7 @@ public class Movie {
         this.cast = cast;
     }
 
-    // Getters and Setters
+
     public String getTitle() {
         return title;
     }

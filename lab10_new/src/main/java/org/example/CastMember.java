@@ -9,7 +9,7 @@ public class CastMember {
         this.characterName = characterName;
     }
 
-    // Getters and Setters
+
     public String getActorName() {
         return actorName;
     }
