@@ -1,0 +1,150 @@
+[
+  {
+    "name": "John Doe",
+    "major": "English",
+    "courses": [
+      {
+        "courseName": "Introduction to literature",
+        "courseGrade":  4.5
+      },
+      {
+        "courseName": "Creative writing",
+        "courseGrade":  3.5
+      }
+    ]
+  },
+  {
+    "name": "Jane Doe",
+    "major": "Computer science",
+    "courses": [
+      {
+        "courseName": "Introduction to object oriented programming",
+        "courseGrade":  4.5
+      },
+      {
+        "courseName": "Databases",
+        "courseGrade":  5.0
+      },
+      {
+        "courseName": "Web technologies",
+        "courseGrade": 4.5
+      }
+    ]
+  },
+  {
+    "name": "Mary Anderson",
+    "major": "Electrical engineering",
+    "courses": [
+      {
+        "courseName": "Electrical circuits",
+        "courseGrade":  3.0
+      },
+      {
+        "courseName": "Control systems",
+        "courseGrade":  4.0
+      }
+    ]
+  },
+  {
+    "name": "Rosalie Abbot",
+    "major": "Medicine",
+    "courses": [
+      {
+        "courseName": "Anatomy",
+        "courseGrade":  5.5
+      },
+      {
+        "courseName": "Pathology",
+        "courseGrade":  5.0
+      }
+    ]
+  },
+  {
+    "name": "Frank Bell",
+    "major": "Social sciences",
+    "courses": [
+      {
+        "courseName": "Sociology",
+        "courseGrade":  4.5
+      },
+      {
+        "courseName": "Anthropology",
+        "courseGrade":  3.5
+      }
+    ]
+  },
+  {
+    "name": "Sylvester Watts",
+    "major": "Biology",
+    "courses": [
+      {
+        "courseName": "Microbiology",
+        "courseGrade":  3.0
+      }
+    ]
+  },
+  {
+    "name": "Bruno Ferrel",
+    "major": "Arts & Humanities",
+    "courses": [
+      {
+        "courseName": "Introduction to philosophy",
+        "courseGrade":  3.5
+      }
+    ]
+  },
+  {
+    "name": "Amelia Hall",
+    "major": "Business",
+    "courses": [
+      {
+        "courseName": "Principles of marketing",
+        "courseGrade":  4.5
+      },
+      {
+        "courseName": "Introduction to economics",
+        "courseGrade":  4.5
+      },
+      {
+        "courseName": "Business law",
+        "courseGrade":  5.0
+      }
+    ]
+  },
+  {
+    "name": "Louis Wallace",
+    "major": "Law",
+    "courses": [
+      {
+        "courseName": "Administrative law",
+        "courseGrade":  3.5
+      },
+      {
+        "courseName": "Criminal law",
+        "courseGrade":  4.5
+      }
+    ]
+  },
+  {
+    "name": "Kate Jones",
+    "major": "Chemical engineering",
+    "courses": [
+      {
+        "courseName": "Material sciences",
+        "courseGrade":  4.5
+      },
+      {
+        "courseName": "Introduction to process engineering",
+        "courseGrade":  4.0
+      },
+      {
+        "courseName": "Engineering design fundamentals",
+        "courseGrade":  3.5
+      },
+      {
+        "courseName": "Thermodynamics",
+        "courseGrade":  4.0
+      }
+    ]
+  }
+]
